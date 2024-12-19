@@ -134,3 +134,13 @@ button {
     margin-left: 100px;
     border: 2px solid white;
 }
+
+/* Below this is the foot styles */
+
+.wrapper-6 {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 50px;
+}
