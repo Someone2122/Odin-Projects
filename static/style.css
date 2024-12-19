@@ -73,3 +73,31 @@ button {
     background-color: #3882f6;
     border: none;
 }
+
+/* make the random info boxes 150 x 150 px */
+
+.wrapper-3 {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.caption {
+    margin: 20px;
+    width: 150px;
+    margin-bottom: 70px;
+}
+
+.box {
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    border: 5px solid blue;
+    border-radius: 15px;
+
+}
+
+#random-info {
+    text-align: center;
+    padding: 35px;
+}
